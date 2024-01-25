@@ -10,9 +10,9 @@ def __init__(self):
         "Youtube": "@animeboy"
     }
     self.aliases = [
-        "yousure",
-        "thatyouaintgay?",
-        "areyoureallysure?",
+        "",
+        "",
+        "",
         "ayyournotreal"
     ]
     self.location = "Los Angeles, California "
